@@ -1,4 +1,4 @@
-{
+
   "name": "frigidaire-two",
   "version": "3.0.0",
   "description": "Frigidaire Appliance Node.js Module",
@@ -22,7 +22,7 @@
     {
       "name": "Karl Grindley"
     },
-  },
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zkwentz/frigidaire-two/issues"

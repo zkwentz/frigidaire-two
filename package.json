@@ -1,6 +1,6 @@
 {
-  "name": "frigidaire",
-  "version": "2.1.2",
+  "name": "frigidaire-two",
+  "version": "3.0.0",
   "description": "Frigidaire Appliance Node.js Module",
   "main": "lib/frigidaire.js",
   "scripts": {
@@ -8,21 +8,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karlg100/frigidaire.git"
+    "url": "git+https://github.com/zkwentz/frigidaire-two.git"
   },
   "keywords": [
     "frigidaire",
     "air conditioner",
     "electralux"
   ],
-  "author": {
-    "name": "Karl Grindley"
+  "contributors": [
+    {
+      "name": "Zach Wentz"
+    },
+    {
+      "name": "Karl Grindley"
+    },
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/karlg100/frigidiare/issues"
+    "url": "https://github.com/zkwentz/frigidaire-two/issues"
   },
-  "homepage": "https://github.com/karlg100/frigidiare#readme",
+  "homepage": "https://github.com/zkwentz/frigidaire-two#readme",
   "dependencies": {
     "debug": "^2.6.9",
     "randomstring": "^1.2.1",
